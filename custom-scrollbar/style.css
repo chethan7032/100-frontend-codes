@@ -18,3 +18,16 @@ padding: 20px;
 line-height:28px ;
 
 }
+
+::-webkit-scrollbar{
+  background-color: #ccc;
+  width: 15px;
+  border-radius: 5px;
+
+
+}
+
+::-webkit-scrollbar-thumb{
+  background: linear-gradient(#F4D03F,#16A085);
+  border-radius: 5px;
+}
